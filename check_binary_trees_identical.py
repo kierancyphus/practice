@@ -42,8 +42,6 @@ class BinaryTree:
         return left and right
 
 
-
-
 def create_tree() -> BinaryTree:
     nodes = [BinaryTree(i) for i in range(7)]
     left_connections = [(0, 1), (1, 3), (2, 5)]

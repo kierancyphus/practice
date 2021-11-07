@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2d2c811-e6b0-47fd-b2ca-4d34df1c7da6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/check_binary_trees_identical.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/move_zeros_to_left.py" beforeDir="false" afterPath="$PROJECT_DIR$/move_zeros_to_left.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_all_palindrome_substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_sum_subarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_spanning_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_segmentation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/check_binary_trees_identical.py" beforeDir="false" afterPath="$PROJECT_DIR$/check_binary_trees_identical.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635790361919</updated>
       <workItem from="1635790363295" duration="1171000" />
-      <workItem from="1635791554397" duration="53597000" />
+      <workItem from="1635791554397" duration="62327000" />
     </task>
     <servers />
   </component>
